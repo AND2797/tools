@@ -1,4 +1,4 @@
-# This scripts open a scratch text file in $HOMEDIR/tmp/scratch_YYYMMDD.txt
+# This script opens a scratch text file in $HOMEDIR/tmp/YYYYMMDD_scratch.txt
 # Use this to store quick unstructured notes for the day
 
 import os
