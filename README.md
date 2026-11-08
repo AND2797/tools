@@ -17,5 +17,5 @@ python3 dnb/daily_notebook.py open daily_notebook
 
 ## scratch_file.py
 
-simpler version of the same idea, no config and no rollover. opens `~/tmp/YYYYMMDD_scratch.txt` in `$EDITOR` (falls back to nvim) for quick unstructured notes.
+opens `~/tmp/YYYYMMDD_scratch.txt` in `$EDITOR` (falls back to nvim) for quick unstructured notes.
 
