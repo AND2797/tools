@@ -1,6 +1,6 @@
 # tools
 
-small tools I use day to day. mostly note taking, plus some git helpers I keep meaning to write.
+day to day tools I use for development 
 
 ## dnb
 
@@ -19,6 +19,3 @@ python3 dnb/daily_notebook.py open daily_notebook
 
 simpler version of the same idea, no config and no rollover. opens `~/tmp/YYYYMMDD_scratch.txt` in `$EDITOR` (falls back to nvim) for quick unstructured notes.
 
-## git-scripts
-
-nothing usable here yet. `wishlist.txt` has the ideas (dumping a file's contents from different hashes/branches, quick rebases) and `diff_dump.py` is a stub for the first one.
